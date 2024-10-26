@@ -1,2 +1,4 @@
 # Ahsan-habib-project-of-EcoLedger_System_GreenLine_LTD
-I completed the project for my EDGE Basic office computer courses from university of Barisal
+I completed the project for my EDGE Basic Office computer courses from the University of Barishal.
+The EcoLedger System is an Excel-based financial and inventory management tool designed for GreenLine Industries to streamline its daily operations. The system integrates various functionalities, including automated debit and credit tracking, purchase and sales recording, shipment reporting, and a user-friendly dashboard with visual analytics. With the use of VBA automation, it provides a robust, secure, and efficient solution for managing financial data and protecting sensitive information. This project aims to optimize workflow by reducing manual input, improving data accuracy, and offering comprehensive reporting for better decision-making.![image](https://github.com/user-attachments/assets/cbd0eecf-f494-4d6f-861c-3601773c0895)
+
